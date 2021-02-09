@@ -1,0 +1,2627 @@
+@media all and (max-width: 2300px) and (min-width: 1701px) { 
+  .slidesimages{
+    height:490px !important;
+    width: 680px !important;
+  }
+  .content {
+    margin-top: -10vw;
+}
+ }
+
+@media all and (max-width: 1700px) and (min-width: 1601px) { 
+  .content {
+    margin-top: -13vw;
+}
+.slidesimages{
+  height:490px !important;
+  width: 435px !important;
+}
+ }
+
+
+   @media all and (max-width: 1600px) and (min-width: 1471px) { .content {
+    margin-top: -13vw;
+} }
+    
+   @media all and (max-width: 1470px) and (min-width: 1300px) {  
+    .content {
+      margin-top: -5vw;
+  }
+   .frndimg{
+         height: 760px !important;
+         width: 640px !important;
+    }
+    .slidesimages{
+      height:490px !important;
+      width: 425px !important;
+    }
+ 
+    .header_image{
+      background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 232vh;
+      background-size: 100%;
+      margin-top: -40.2rem;
+      margin-left: 31rem;
+     
+    }
+    .r1befor{
+      margin-top: -37rem;
+    }
+    .testimonials li .singh {
+      margin-top: -4rem;
+      margin-left: 12rem;
+  }
+  .crdbodysame{
+    width: 17rem !important;
+  } 
+  }
+  @media all and (max-width: 1299px) and (min-width: 1190px) {  
+    .content {
+      margin-top: 6vw;
+  }
+    .headerimage {
+      background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+      background-position: right !important;
+      background-repeat: no-repeat !important;
+      margin-left: auto !important;
+      height: 100vh !important;
+      margin-top: -11rem !important;
+      width: 100% !important;
+  }
+    .frndimg{
+          height: 720px !important;
+          width: 580px !important;
+     }
+     .slidesimages{
+      height:450px !important;
+      width: 400px !important;
+    }
+    .header_image{
+      background-image: url("https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+      margin-right: -35px;
+      height: 170vh;
+   
+      margin-top: -31rem;
+     
+    }
+    .r1befor{
+      margin-top: -23rem;
+    }
+  
+  .testimonials li .singh {
+    margin-top: -4rem;
+    margin-left: 11rem;
+}
+.crdbodysame{
+  width: 16rem !important;
+}
+.hto{
+  font-size: 1.3rem !important;
+  font-weight: bold;
+}
+   }
+     @media all and (max-width: 1189px) and (min-width: 1132px) {  
+      .content {
+        margin-top: 7vw;
+    }
+      .headerimage {
+        background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+        background-position: right !important;
+        background-repeat: no-repeat !important;
+        margin-left: auto !important;
+        height: 100vh !important;
+        margin-top: -11rem !important;
+        width: 100% !important;
+    }
+      .frndimg{
+          height: 720px !important;
+          width: 530px !important;
+     }
+     .slidesimages{
+      height:420px !important;
+      width: 350px !important;
+    }
+    .header_image{
+      background-image: url("https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+      margin-right: -30px;
+      height: 140vh;
+   
+      margin-top: -26rem;
+     
+    }
+    .btn_nav{
+  
+      margin-right: 3rem !important;
+      height: 3rem;
+      width: 11rem;
+      font-size: 0.81rem;
+   }
+   .home{
+     margin-left: -1.6rem;
+   }
+   .r1befor{
+     margin-top: -29rem;
+   }
+   .testimonials li .singh {
+    margin-left: 10rem;
+}
+.btn_nav_golcard {
+  height: 4.2rem;
+  width: 13rem;
+font-size: 1rem;
+}
+.crdbodysame{
+  width: 14rem !important;
+}
+.hto{
+  font-size: 1.3rem !important;
+  font-weight: bold;
+}
+
+  }
+  @media all and (max-width: 1131px) and (min-width: 1100px) { 
+    .content {
+      margin-top: 10vw;
+  } 
+    .headerimage {
+      background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+      background-position: right !important;
+      background-repeat: no-repeat !important;
+      margin-left: auto !important;
+      height: 100vh !important;
+      margin-top: -11rem !important;
+      width: 100% !important;
+  }
+    .frndimg{
+      height: 720px !important;
+      width: 530px !important;
+ }
+ .slidesimages{
+  height:440px !important;
+  width: 360px !important;
+}
+.header_image{
+  background-image: url("https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-right: -28px;
+  height: 140vh;
+
+  margin-top: -28rem;
+ 
+}
+.btn_nav{
+
+  margin-right: 3rem !important;
+  height: 3rem;
+  width: 11rem;
+  font-size: 0.81rem;
+}
+.home{
+ margin-left: -1rem;
+}
+.r1befor{
+ margin-top: -29rem;
+}
+.btn_nav_golcard {
+  height: 4.2rem;
+  width: 13rem;
+font-size: 1rem;
+}
+.testimonials li .singh {
+  margin-top: -4rem;
+  margin-left: 8.2rem;
+}
+.crdbodysame{
+  width: 14rem !important;
+}
+.hto{
+  font-size: 1.3rem !important;
+  font-weight: bold;
+}
+  
+  }
+  @media all and (max-width: 1099px) and (min-width: 1000px) {  
+    .content {
+      margin-top: 13vw;
+      margin-bottom: -2rem;
+  }
+    .headerimage {
+      background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+      background-position: right !important;
+      background-repeat: no-repeat !important;
+      margin-left: auto !important;
+      height: 100vh !important;
+      margin-top: -11rem !important;
+      width: 100% !important;
+  }
+    .frndimg{
+      height: 650px !important;
+      width: 520px !important;
+ }
+ .slidesimages{
+  height:440px !important;
+  width: 360px !important;
+}
+.header_image{
+  background-image: url("https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-right: -28px;
+  height: 140vh;
+
+  margin-top: -26rem;
+ 
+}
+.testimonials li {
+  display: inline-block;
+  background-color: white;
+  margin: 50px 10px 10px 10px;
+  /* width: calc((100% - 55px) / 2); */
+  width: 80%;
+  height: 36vh;
+  position: relative;
+  transition: ease-in-out .3s;
+}
+.testimonials li p {
+  position: absolute;
+  width: 70%;
+  text-align: center;
+  top: 6.7rem;
+  left: 50%;
+  transform: translatex(-50%);
+  font-size: 27px !important;
+}
+.btn_nav{
+
+  margin-right: 3rem !important;
+  height: 3rem;
+  width: 11rem;
+  font-size: 0.81rem;
+}
+.home{
+ margin-left: -1rem;
+}
+.r1befor{
+ margin-top: -30rem;
+}
+.btn_nav_golcard {
+  height: 4.2rem;
+  width: 13rem;
+font-size: 0.9rem;
+}
+.crdbodysame{
+  width: 14rem !important;
+}
+  .hto{
+    font-size: 1.3rem !important;
+    font-weight: bold;
+  }
+  .testimonials li .singh {
+    margin-top: -4rem;
+    margin-left: 8rem;
+}
+.cz_testimonials_name_subname {
+  display: flex;
+  justify-content: center;
+  margin-top: -10rem;
+}
+  }
+@media all and (max-width: 999px) and (min-width: 900px) {  
+  .content {
+    margin-top: 15vw;
+    margin-bottom: -3rem;
+}
+  .headerimage {
+    background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+    background-position: right !important;
+    background-repeat: no-repeat !important;
+    margin-left: auto !important;
+    height: 100vh !important;
+    margin-top: -11rem !important;
+    width: 100% !important;
+}
+  .frndimg{
+    height: 600px !important;
+    width: 420px !important;
+}
+.testimonials li p {
+  position: absolute;
+  font-size: 1.2rem !important;
+  width: 70%;
+  text-align: center;
+  top: 6.7rem;
+  left: 50%;
+  transform: translatex(-50%);
+  font-size: 15px;
+}
+.cz_testimonials_name_subname {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.4rem;
+}
+.slidesimages{
+height:440px !important;
+width: 360px !important;
+}
+.header_image{
+  background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 102%;
+    height: 232vh;
+    width: 99%;
+    margin-left: 2rem;
+    margin-top: -45.4rem;
+}
+.btn_nav{
+
+margin-right: 3rem !important;
+height: 3rem;
+width: 11rem;
+font-size: 0.81rem;
+}
+.home{
+margin-left: -1rem;
+}
+.r1befor{
+margin-top: -29rem;
+}
+.story{
+      
+  margin-top:11rem;
+
+    
+  }
+  .sbsol1{
+    height: 13vh;
+    width: 70%;
+}
+.solutions{
+  margin-left: 1.7rem;
+}
+.rcorners4{
+  padding-top: 2rem;
+  border-radius: 12rem !important;
+  background: #ffffff;
+  padding: 20px; 
+  width: 117%;
+  box-shadow:  0.2px 1px 1px 1.4px rgb(216, 213, 213);
+  height: 259px; 
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: -3rem;
+}
+.pr1{
+  margin-top: 2rem;
+  height: 3rem!important;
+  width: 3rem!important;
+  background-color:#35c46cb7 !important;
+  border-radius: 50% !important;
+  color: white;
+  outline-style: none !important;
+  border-style: none;
+}
+.phone {
+ 
+  margin-left: 544px !important;
+
+}
+.baar {
+  margin-left: -10rem;
+
+}
+.testimonials li .singh {
+  margin-top: -4rem;
+  margin-left: 6.6rem;
+}
+  }
+  @media all and (max-width: 899px) and (min-width: 800px) {  
+    .content {
+      margin-top: 17vw;
+      margin-bottom: -2rem;
+  }
+  .headerimage {
+    background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+    background-position: right !important;
+    background-repeat: no-repeat !important;
+    margin-left: auto !important;
+    height: 100vh !important;
+    margin-top: -11rem !important;
+    width: 100% !important;
+}
+  .frndimg{
+    height: 600px !important;
+    width: 420px !important;
+}
+.testimonials li p {
+  position: absolute;
+  font-size: 1.2rem !important;
+  width: 70%;
+  text-align: center;
+  top: 6.7rem;
+  left: 50%;
+  transform: translatex(-50%);
+  font-size: 15px;
+}
+.cz_testimonials_name_subname {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.4rem;
+}
+.slidesimages{
+height:440px !important;
+width: 360px !important;
+}
+.header_image{
+  background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 102%;
+    height: 232vh;
+    width: 99%;
+    margin-left: 2rem;
+    margin-top: -45.4rem;
+}
+.btn_nav{
+
+margin-right: 3rem !important;
+height: 3rem;
+width: 11rem;
+font-size: 0.81rem;
+}
+.home{
+margin-left: -1rem;
+}
+.r1befor{
+margin-top: -29rem;
+}
+.story{
+      
+  margin-top:11rem;
+
+    
+  }
+  .sbsol1{
+    height: 13vh;
+    width: 70%;
+}
+.solutions{
+  margin-left: 1.7rem;
+}
+.rcorners4{
+  padding-top: 2rem;
+  border-radius: 12rem !important;
+  background: #ffffff;
+  padding: 20px; 
+  width: 117%;
+  box-shadow:  0.2px 1px 1px 1.4px rgb(216, 213, 213);
+  height: 259px; 
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: -3rem;
+}
+.pr1{
+  margin-top: 2rem;
+  height: 3rem!important;
+  width: 3rem!important;
+  background-color:#35c46cb7 !important;
+  border-radius: 50% !important;
+  color: white;
+  outline-style: none !important;
+  border-style: none;
+}
+.phone {
+ 
+  margin-left: 544px !important;
+
+}
+.baar {
+  margin-left: -10rem;
+
+}
+.testimonials li .singh {
+  margin-top: -4rem;
+  margin-left: 6.6rem;
+}
+  }
+  /* @media all and (max-width: 799px) and (min-width: 700px) {  
+
+  } */
+  @media all and (max-width: 799px) and (min-width: 770px) {
+    .headerimage {
+      background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+      background-position: right !important;
+      background-repeat: no-repeat !important;
+      margin-left: auto !important;
+      height: 100vh !important;
+      margin-top: -11rem !important;
+      width: 100% !important;
+  }
+    .frndimg{
+      height: 600px !important;
+      width: 420px !important;
+  }
+  .slidesimages{
+  height:440px !important;
+  width: 360px !important;
+  }
+  .header_image{
+    background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 102%;
+    height: 232vh;
+    width: 99%;
+    margin-left: 2rem;
+    margin-top: -45.4rem;
+    }
+  .btn_nav{
+  
+  margin-right: 3rem !important;
+  height: 3rem;
+  width: 11rem;
+  font-size: 0.81rem;
+  }
+  .home{
+  margin-left: -1rem;
+  }
+  .r1befor{
+  margin-top: -39rem;
+  margin-bottom: -6rem;
+
+  }
+   .aftergf{
+        margin-top: -11rem !important;
+    }
+  .story{
+        
+    margin-top:11rem;
+  
+      
+    }
+    .sbsol1{
+      height: 13vh;
+      width: 70%;
+  }
+  .solutions{
+    margin-left: 1.7rem;
+  }
+  .rcorners4{
+    padding-top: 2rem;
+    border-radius: 12rem !important;
+    background: #ffffff;
+    padding: 20px; 
+    width: 117%;
+    box-shadow:  0.2px 1px 1px 1.4px rgb(216, 213, 213);
+    height: 259px; 
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -3rem;
+  }
+  .pr1{
+    margin-top: 2rem;
+    height: 3rem!important;
+    width: 3rem!important;
+    background-color:#35c46cb7 !important;
+    border-radius: 50% !important;
+    color: white;
+    outline-style: none !important;
+    border-style: none;
+  }
+  }
+  @media all and (max-width: 769px) and (min-width: 601px) {
+    .headerimage {
+      background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+      background-position: right !important;
+      background-repeat: no-repeat !important;
+      margin-left: auto !important;
+      height: 100vh !important;
+      margin-top: -11rem !important;
+      width: 100% !important;
+  }
+    .crdbodysame {
+      margin-left: 10px;
+  }
+  .btn_how_work {
+    height: 11vw;
+    margin-top: 1.9rem;
+    display: inline-block;
+    width: 40vw;
+    background-color: #ffff !important;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: rgb(128, 148, 202);
+    justify-content: center;
+    font-size: 5vw;
+    font-weight: bold;
+    box-shadow: 4px 2px 1px rgba(204, 198, 198, 0.836);
+    border-radius: 2rem;
+}
+    .grp {
+      width: 45% !important;
+      margin-left: 9rem !important;
+      margin-top: -6rem !important;
+  }
+    .navr {
+    
+      margin-top:0rem !important;
+  }
+  .navbar-expand-lg {
+    border-radius: 0rem;
+} 
+.header_image {
+  background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 102%;
+  height: 232vh;
+  width: 99%;
+  margin-left: 2rem;
+  margin-top: -49.7rem;
+}
+  .phone {
+
+  margin-left: 20px !important;
+  height: 36px !important;
+
+  width: 36px !important;
+}
+.baar {
+  height: 36px !important;
+
+  width: 36px !important;
+  margin-left: -7rem;
+} 
+#sos1 {
+  font-size: 4.5vw;
+}
+#sos2 {
+    font-size: 4.5vw;
+
+}
+#sos3 {
+    font-size: 4.5vw;
+
+}
+#sos4 {
+    font-size: 4.5vw;
+
+}
+.serv{
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+.card-text {
+  font-weight: bold !important;
+  font-size: 1.2rem !important;
+}
+.des {
+  margin-top: 2rem !important;
+  font-size: 1.5rem;
+}
+
+.girl_pc {
+  height: 100vh;
+  width: 98%;
+}
+.comp {
+  word-spacing: 4px;
+ 
+  font-size: 4.2vw;
+}
+.team {
+
+  font-size: 42px;
+  margin-left: -27px;
+}
+.example {
+  font-size: 22px !important;
+
+  line-height: 1.9rem;
+}
+
+.team {
+    font-size: 1.8rem !important;
+    margin-left: 3px;
+}
+.slidesimages{
+  height: 20vh;
+  width: 98%;
+}
+._01 {
+  font-size: 4vw;
+  font-weight: 800;
+  height: 20vh;
+  width: 102px !important;
+}
+.what {
+  font-size: 25px;
+  color: #aaaaaa;
+  margin-top: 2rem !important;
+  line-height: 2rem;
+}
+.indr {
+  margin-left: 5rem !important;
+}
+.frndimg {
+  height: 53vh;
+  width: 99%;
+}
+.idea_main {
+  margin-left:-3rem;
+  margin-top:4rem !important;
+}
+.recent{
+  font-size: 2rem !important;
+}
+.view{
+  font-size: 1.3rem !important;
+}
+.testimonials {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  position: relative;
+  display: block;
+  margin-left: -8px;
+  width: 100%;
+  height: 66vh !important;
+}
+.testimonials li .singh {
+  margin-top: -4rem;
+  margin-left: 5.5rem;
+  height: 11vh;
+}
+.testimonials li {
+  display: inline-block;
+  background-color: white;
+  margin: 50px 10px 10px 10px;
+  /* width: calc((100% - 55px) / 2); */
+  width: 80%;
+  height: 48vh;
+  position: relative;
+  transition: ease-in-out .3s;
+}
+.great {
+  font-size: 1.5rem !important;
+  line-height: 1.7rem;
+  margin-top: -9px;
+}
+.cz_testimonials_name_subname {
+  
+  margin-top: -3rem;
+}
+.solutions {
+  
+  align-items: center;
+  flex-direction: column;
+}
+
+.rcorners4 {
+    background: #ffffff;
+    width: 100%;
+    box-shadow: 0.2px 1px 1px 1.4px rgb(216, 213, 213);
+    height: 300px;
+    display: flex;
+    border-radius: 0rem !important;
+}
+.rdy{
+  font-size: 1.3rem !important;
+  line-height: 1rem !important;
+}
+.zyada{
+  font-size: 1.3rem !important;
+  font-family: sans-serif;
+}
+.pr1 {
+  margin-top: 2rem;
+  height: 3rem!important;
+  margin-right: 2px;
+  width: 3rem!important;
+
+}
+
+
+
+  }
+    @media all and (max-width: 600px) and (min-width: 501px) {
+      .headerimage {
+        background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+        background-position: right !important;
+        background-repeat: no-repeat !important;
+        margin-left: auto !important;
+        height: 100vh !important;
+        margin-top: -11rem !important;
+        width: 100% !important;
+    }
+      .crdbodysame{
+        width: 32rem !important;
+      }
+      .crds {
+        margin-top: 7rem !important;
+    }
+      .navr {
+      
+        margin-top:0rem !important;
+    }
+    .navbar-expand-lg {
+      border-radius: 0rem;
+  } 
+  .header_image {
+    background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 102%;
+    height: 232vh;
+    width: 99%;
+    margin-left: 2rem;
+    margin-top: -49.7rem;
+  }
+    .phone {
+  
+    margin-left: 20px !important;
+    height: 36px !important;
+  
+    width: 36px !important;
+  }
+  .baar {
+    height: 36px !important;
+  
+    width: 36px !important;
+    margin-left: -7rem;
+  } 
+  #sos1 {
+    font-size: 4.5vw;
+  }
+  #sos2 {
+      font-size: 4.5vw;
+  
+  }
+  #sos3 {
+      font-size: 4.5vw;
+  
+  }
+  #sos4 {
+      font-size: 4.5vw;
+  
+  }
+  .serv{
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  .card-text {
+    font-weight: bold !important;
+    font-size: 1.2rem !important;
+  }
+  .des {
+    margin-top: 2rem !important;
+    font-size: 1.5rem;
+  }
+  
+  .girl_pc {
+    height: 100vh;
+    width: 98%;
+  }
+  .comp {
+    word-spacing: 4px;
+   
+    font-size: 4.2vw;
+  }
+  .team {
+  
+    font-size: 42px;
+    margin-left: -27px;
+  }
+  .example {
+    font-size: 22px !important;
+  
+    line-height: 1.9rem;
+  }
+  
+  .team {
+      font-size: 1.8rem !important;
+      margin-left: 3px;
+  }
+  .slidesimages{
+    height: 50vh;
+    width: 100%;
+  }
+  ._01 {
+    font-size: 5vw;
+    font-weight: 800;
+    height: 20vh;
+    width: 102px !important;
+  }
+  .what {
+    font-size: 25px;
+    color: #aaaaaa;
+    margin-top: 2rem !important;
+    line-height: 2rem;
+  }
+  .indr {
+    margin-left: 5rem !important;
+  }
+  .frndimg {
+    height: 53vh;
+    width: 99%;
+  }
+  .idea_main {
+    margin-left:-0.5rem;
+    margin-top: -6rem;
+  }
+  .recent{
+    font-size: 2rem !important;
+  }
+  .view{
+    font-size: 1.3rem !important;
+  }
+  .testimonials {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    position: relative;
+    display: block;
+    margin-left: -8px;
+    width: 100%;
+    height: 66vh !important;
+  }
+  .testimonials li .singh {
+    margin-top: -4rem;
+    margin-left: 8.4rem;
+    height: 11vh;
+}
+  .testimonials li {
+    display: inline-block;
+    background-color: white;
+    margin: 50px 10px 10px 10px;
+    /* width: calc((100% - 55px) / 2); */
+    width: 80%;
+    height: 48vh;
+    position: relative;
+    transition: ease-in-out .3s;
+  }
+  .great {
+    font-size: 1.5rem !important;
+    line-height: 1.7rem;
+    margin-top: -32px;
+}
+  .cz_testimonials_name_subname {
+    
+
+    margin-top: -2rem;
+  }
+  .solutions {
+    
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .rcorners4 {
+      background: #ffffff;
+      width: 100%;
+      box-shadow: 0.2px 1px 1px 1.4px rgb(216, 213, 213);
+      height: 300px;
+      display: flex;
+      border-radius: 0rem !important;
+  }
+  .rdy{
+    font-size: 1.3rem !important;
+    line-height: 1rem !important;
+  }
+  .zyada{
+    font-size: 1.3rem !important;
+    font-family: sans-serif;
+  }
+  .pr1 {
+    margin-top: 2rem;
+    height: 3rem!important;
+    margin-right: 2px;
+    width: 3rem!important;
+  
+  }
+  .btn_nav_golcard{
+    height: 5rem;
+    width: 21rem;
+    background-image: linear-gradient(to right,#4dbe8d,#0b8c9d);
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: center;
+    display: none;
+    font-size: 1.3rem;
+    border-radius: 3rem;
+    margin-right:1.1rem;
+  }
+  .btn_how_work {
+    height: 20vw;
+    margin-top: 1rem;
+    display: inline-block;
+    width: 83vw;
+    background-color: #ffff !important;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: rgb(128, 148, 202);
+    justify-content: center;
+    font-size: 6vw;
+    font-weight: bold;
+    box-shadow: 4px 2px 1px rgba(204, 198, 198, 0.836);
+    border-radius: 2rem;
+}
+
+  
+  }
+  @media all and (max-width: 500px) and (min-width: 451px) {
+    .headerimage {
+      background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+      background-position: right !important;
+      background-repeat: no-repeat !important;
+      margin-left: auto !important;
+      height: 100vh !important;
+      margin-top: -11rem !important;
+      width: 100% !important;
+  }
+    .crdbodysame{
+      margin-left: 2rem !important;
+    }
+    .btn_how_work {
+      height: 20vw;
+      margin-top: 1rem;
+      display: inline-block;
+      width: 83vw;
+      background-color: #ffff !important;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      color: rgb(128, 148, 202);
+      justify-content: center;
+      font-size: 6vw;
+      font-weight: bold;
+      box-shadow: 4px 2px 1px rgba(204, 198, 198, 0.836);
+      border-radius: 2rem;
+  }
+    .navr {
+    
+      margin-top:0rem !important;
+  }
+  .navbar-expand-lg {
+    border-radius: 0rem;
+} 
+.header_image {
+  background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 102%;
+  height: 232vh;
+  width: 99%;
+  margin-left: 2rem;
+  margin-top: -49.7rem;
+}
+  .phone {
+
+  margin-left: 20px !important;
+  height: 36px !important;
+
+  width: 36px !important;
+}
+.baar {
+  height: 36px !important;
+  margin-left: 1rem !important;
+
+  width: 36px !important;
+  margin-left: -7rem;
+} 
+#sos1 {
+  font-size: 6.5vw;
+
+}
+#sos2 {
+  font-size: 6.5vw;
+
+}
+#sos3 {
+  font-size: 6.5vw;
+
+}
+#sos4 {
+  font-size: 6.5vw;
+
+}
+.serv{
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.girl_pc {
+  height: 100vh;
+  width: 98%;
+}
+.comp {
+  word-spacing: 4px;
+ 
+  font-size: 4.2vw;
+}
+.team {
+
+  font-size: 42px;
+  margin-left: -27px;
+}
+.example {
+  font-size: 22px !important;
+
+  line-height: 1.9rem;
+}
+
+.team {
+    font-size: 1.8rem !important;
+    margin-left: 3px;
+}
+._01 {
+  font-size: 20vw;
+  font-weight: 800;
+  height: 20vh;
+  width: 102px !important;
+}
+.indr {
+  margin-left: 5rem !important;
+}
+.frndimg {
+  height: 53vh;
+  width: 99%;
+}
+.idea_main {
+  margin-left:-3rem;
+}
+.recent{
+  font-size: 2rem !important;
+}
+.view{
+  font-size: 1.3rem !important;
+}
+.testimonials {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	position: relative;
+  display: block;
+  margin-left: 10px;
+    width: 100%;
+    height: 70vh !important;
+
+}
+.testimonials li .singh {
+  margin-top: -4rem;
+  margin-left: 5.9rem !important;
+  
+  height: 13vh;
+}
+.great {
+  font-size: 1.1rem !important;
+  line-height: 1.3rem;
+}
+.cz_testimonials_name_subname {
+  
+  margin-top: -4rem;
+}
+.solutions {
+  
+  align-items: center;
+  flex-direction: column;
+}
+
+.rcorners4 {
+    background: #ffffff;
+    width: 100%;
+    box-shadow: 0.2px 1px 1px 1.4px rgb(216, 213, 213);
+    height: 300px;
+    display: flex;
+    border-radius: 0rem !important;
+}
+.rdy{
+  font-size: 1rem !important;
+  line-height: 1rem !important;
+}
+.zyada{
+  font-size: 1rem !important;
+  font-family: sans-serif;
+}
+.pr1 {
+  margin-top: 2rem;
+  height: 3rem!important;
+  margin-right: 2px;
+  width: 3rem!important;
+
+}
+.btn_nav_golcard{
+  height: 5rem;
+  width: 21rem;
+  background-image: linear-gradient(to right,#4dbe8d,#0b8c9d);
+  font-weight: bold;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  color: white;
+  justify-content: center;
+  display: none;
+  font-size: 1.3rem;
+  border-radius: 3rem;
+  margin-right:1.1rem;
+}
+.crds {
+  margin-top: 6rem !important;
+}
+
+  }
+
+  @media all and (max-width: 450px) and (min-width: 381px) {
+    .headerimage {
+      background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+      background-position: right !important;
+      background-repeat: no-repeat !important;
+      margin-left: auto !important;
+      height: 100vh !important;
+      margin-top: -11rem !important;
+      width: 100% !important;
+  }
+    .crdbodysame{
+      margin-left: 9px;
+    }
+    .navr {
+    
+      margin-top:0rem !important;
+  }
+  .navbar-expand-lg {
+    border-radius: 0rem;
+} 
+.header_image {
+  background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 102%;
+  height: 232vh;
+  width: 99%;
+  margin-left: 2rem;
+  margin-top: -49.7rem;
+}
+  .phone {
+
+  margin-left: 20px !important;
+  height: 36px !important;
+
+  width: 36px !important;
+}
+.baar {
+  height: 36px !important;
+  margin-left: 1rem !important;
+
+  width: 36px !important;
+  margin-left: -7rem;
+} 
+#sos1 {
+  font-size: 6.5vw;
+
+}
+#sos2 {
+  font-size: 6.5vw;
+
+}
+#sos3 {
+  font-size: 6.5vw;
+
+}
+#sos4 {
+  font-size: 6.5vw;
+
+}
+.serv{
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.girl_pc {
+  height: 100vh;
+  width: 98%;
+}
+.comp {
+  word-spacing: 4px;
+ 
+  font-size: 4.2vw;
+}
+.team {
+
+  font-size: 42px;
+  margin-left: -27px;
+}
+.example {
+  font-size: 22px !important;
+
+  line-height: 1.9rem;
+}
+
+.team {
+    font-size: 1.8rem !important;
+    margin-left: 3px;
+}
+._01 {
+  font-size: 20vw;
+  font-weight: 800;
+  height: 20vh;
+  width: 102px !important;
+}
+.indr {
+  margin-left: 5rem !important;
+}
+.frndimg {
+  height: 53vh;
+  width: 99%;
+}
+.idea_main {
+  margin-left:-3rem;
+}
+.recent{
+  font-size: 2rem !important;
+}
+.view{
+  font-size: 1.3rem !important;
+}
+.testimonials {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	position: relative;
+  display: block;
+  margin-left: 10px;
+    width: 100%;
+    height: 70vh !important;
+
+}
+.testimonials li .singh {
+  margin-top: -4rem;
+  margin-left: 4.5rem;
+  
+  height: 13vh;
+}
+.great {
+  font-size: 1.1rem !important;
+  line-height: 1.3rem;
+}
+.cz_testimonials_name_subname {
+  
+  margin-top: -4rem;
+}
+.solutions {
+  
+  align-items: center;
+  flex-direction: column;
+}
+
+.rcorners4 {
+    background: #ffffff;
+    width: 100%;
+    box-shadow: 0.2px 1px 1px 1.4px rgb(216, 213, 213);
+    height: 300px;
+    display: flex;
+    border-radius: 2rem !important;
+}
+.rdy{
+  font-size: 1rem !important;
+  line-height: 1rem !important;
+}
+.zyada{
+  font-size: 1rem !important;
+  font-family: sans-serif;
+}
+.pr1 {
+  margin-top: 2rem;
+  height: 3rem!important;
+  margin-right: 2px;
+  width: 3rem!important;
+
+}
+.golcard {
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 2rem;
+}
+.btn_nav_golcard{
+  height: 5rem;
+  width: 16rem;
+  background-image: linear-gradient(to right,#4dbe8d,#0b8c9d);
+  font-weight: bold;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  color: white;
+  justify-content: center;
+  display: none;
+  font-size: 1.3rem;
+  border-radius: 3rem;
+  margin-right:1.1rem;
+}
+.crds {
+  margin-top: 6rem !important;
+}
+.btn_how_work {
+  height: 20vw;
+  margin-top: 1rem;
+  display: inline-block;
+  width: 83vw;
+  background-color: #ffff !important;
+  text-align: center;
+  display: none !important;
+  align-items: center;
+  color: rgb(128, 148, 202);
+  justify-content: center;
+  font-size: 6vw;
+  font-weight: bold;
+  box-shadow: 4px 2px 1px rgba(204, 198, 198, 0.836);
+  border-radius: 2rem;
+}
+
+
+  }
+   
+
+
+
+
+  @media all and (max-width: 380px) and (min-width: 279px) {
+    .headerimage {
+      background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+      background-position: right !important;
+      background-repeat: no-repeat !important;
+      margin-left: auto !important;
+      height: 100vh !important;
+      margin-top: -11rem !important;
+      width: 100% !important;
+  }
+    .navr {
+    
+      margin-top:0rem !important;
+  }
+  .xprt{
+    font-size: 0.7rem !important;
+  } 
+  .crt{
+    font-size: 0.67rem !important;
+  }
+  .navbar-expand-lg {
+    border-radius: 0rem;
+} 
+.header_image {
+  background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 102%;
+  height: 232vh;
+  width: 99%;
+  margin-left: 2rem;
+  margin-top: -49.7rem;
+}
+  .phone {
+
+  margin-left: 20px !important;
+  height: 36px !important;
+
+  width: 36px !important;
+}
+.baar {
+  height: 36px !important;
+
+  width: 36px !important;
+  margin-left: -7rem;
+} 
+#sos1 {
+  font-size: 6.5vw;
+
+}
+#sos2 {
+  font-size: 6.5vw;
+
+}
+#sos3 {
+  font-size: 6.5vw;
+
+}
+#sos4 {
+  font-size: 6.5vw;
+
+}
+.serv{
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.girl_pc {
+  height: 100vh;
+  width: 98%;
+}
+.comp {
+  word-spacing: 4px;
+ 
+  font-size: 4.2vw;
+}
+.team {
+
+  font-size: 42px;
+  margin-left: -27px;
+}
+.example {
+  font-size: 22px !important;
+
+  line-height: 1.9rem;
+}
+
+.team {
+    font-size: 1.8rem !important;
+    margin-left: 3px;
+}
+._01 {
+  font-size: 20vw;
+  font-weight: 800;
+  height: 20vh;
+  width: 102px !important;
+}
+.indr {
+  margin-left: 5rem !important;
+}
+.frndimg {
+  height: 53vh;
+  width: 99%;
+}
+.idea_main {
+  margin-left:-3rem;
+}
+.recent{
+  font-size: 2rem !important;
+}
+.view{
+  font-size: 1.3rem !important;
+}
+.testimonials {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	position: relative;
+  display: block;
+  margin-left: 10px;
+    width: 100%;
+    height: 70vh !important;
+
+}
+.testimonials li .singh {
+  margin-top: -4rem;
+  margin-left: 3.5rem;
+  height: 13vh;
+}
+.great {
+  font-size: 1.1rem !important;
+  line-height: 1.3rem;
+}
+.cz_testimonials_name_subname {
+  
+  margin-top: 0rem;
+}
+.solutions {
+  
+  align-items: center;
+  flex-direction: column;
+}
+
+.rcorners4 {
+    background: #ffffff;
+    width: 100%;
+    box-shadow: 0.2px 1px 1px 1.4px rgb(216, 213, 213);
+    height: 300px;
+    display: flex;
+    justify-content: center !important;
+    border-radius: 2rem !important;
+}
+.rdy{
+  font-size: 1rem !important;
+  line-height: 1rem !important;
+}
+.zyada{
+  font-size: 1rem !important;
+  font-family: sans-serif;
+}
+.pr1 {
+  margin-top: 2rem;
+  height: 3rem!important;
+  margin-right: 2px;
+  width: 3rem!important;
+
+}
+.btn_how_work {
+  height: 20vw;
+  margin-top: 1rem;
+  display: inline-block;
+  width: 83vw;
+  background-color: #ffff !important;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  color: rgb(128, 148, 202);
+  justify-content: center;
+  font-size: 6vw;
+  font-weight: bold;
+  box-shadow: 4px 2px 1px rgba(204, 198, 198, 0.836);
+  border-radius: 2rem;
+}
+.crdbodysame{
+  margin-left: -0.4rem;
+}
+.crds {
+  margin-top: 6rem !important;
+}
+.golcard {
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 2rem;
+}
+.btn_nav_golcard{
+  height: 5rem;
+  width: 16rem;
+  background-image: linear-gradient(to right,#4dbe8d,#0b8c9d);
+  font-weight: bold;
+  text-align: center;
+  display: none;
+  align-items: center;
+  color: white;
+  justify-content: center;
+  
+  font-size: 1.3rem;
+  border-radius: 3rem;
+  margin-right:1.1rem;
+}
+
+  }
+    /* .frndimg{
+      height: 600px !important;
+      width: 420px !important;
+  }
+  .slidesimages{
+  height:440px !important;
+  width: 360px !important;
+  }
+  .header_image {
+    background-image: url(https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 102%;
+    height: 232vh;
+    width: 99%;
+    margin-left: 2rem;
+    margin-top: -52.4rem;
+  }
+  .btn_nav{
+  
+  margin-right: 3rem !important;
+  height: 3rem;
+  width: 11rem;
+  font-size: 0.81rem;
+  }
+  .home{
+  margin-left: -1rem;
+  }
+  .r1befor{
+  margin-top: -39rem;
+  margin-bottom: -6rem;
+
+  }
+   .aftergf{
+        margin-top: -11rem !important;
+    }
+  .story{
+        
+    margin-top:11rem;
+  
+      
+    }
+    .sbsol1{
+      height: 13vh;
+      width: 70%;
+  }
+  .solutions{
+    margin-left: 1.7rem;
+  }
+  .rcorners4{
+    padding-top: 2rem;
+    border-radius: 12rem !important;
+    background: #ffffff;
+    padding: 20px; 
+    width: 117%;
+    box-shadow:  0.2px 1px 1px 1.4px rgb(216, 213, 213);
+    height: 259px; 
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -3rem;
+  }
+  .pr1{
+    margin-top: 2rem;
+    height: 3rem!important;
+    width: 3rem!important;
+    background-color:#35c46cb7 !important;
+    border-radius: 50% !important;
+    color: white;
+    outline-style: none !important;
+    border-style: none;
+  }
+  .phone {
+
+    margin-left: 20px !important;
+    height: 36px !important;
+
+    width: 36px !important;
+}
+.baar {
+  height: 36px !important;
+
+  width: 36px !important;
+  margin-left: -7rem;
+} */
+  /* } */
+   /* @media all and (max-width: 1049px) and (min-width: 1000px) {
+    .crdbody{
+      margin-bottom: 2.6rem !important;
+      margin-top: 2.6rem !important;
+      height: 63vh !important;
+      width: 33vw !important
+      
+     
+    }
+  
+  .btn_nav{
+  
+    margin-right: 3rem !important;
+    height: 3rem;
+    width: 11rem;
+    font-size: 0.81rem;
+ }
+  .home{
+    margin-left: -1rem;
+  }
+    #sos1{
+      
+      font-weight: bold;
+      margin-top: 4rem;
+      font-size: 2.3vw;
+      
+  }
+  
+  .slidesimages{
+    height:410px !important;
+    width: 350px !important;
+  }
+  .header_image{
+    background-image: url("https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-right: -30px;
+    height: 130vh;
+ 
+    margin-top: -14rem;
+   
+  }
+  .story{
+      
+    margin-left: 2rem;
+    margin-top:11.2rem;
+
+      
+    }
+ 
+    } */
+  /* @media all and (max-width: 1000px) and (min-width: 900px) {
+    .story{
+      
+    margin-left: 2rem;
+    margin-top:11.4rem;
+
+      
+    }
+  } */
+  /* @media all and (max-width: 844px) and (min-width: 600px) {
+    .story{
+      
+    margin-left: 2rem;
+    margin-top:11rem;
+
+      
+    }
+    .crdbody{
+      height: 62vh !important;  
+      width: 41vw !important
+    
+    }
+  } */
+
+  /* @media all and (max-width: 1450px) and (min-width: 1170px) {
+  .crdbody{
+    width: 20.8vw !important
+  }
+  #sos1{
+      
+    font-weight: bold;
+    margin-top: 4rem;
+    font-size: 2.4vw;
+    
+}
+  } */
+ 
+    /* @media all and (max-width: 1169px) and (min-width: 1100px) {
+      .crdbody{
+        margin-bottom: 2.6rem !important;
+        margin-top: 2.6rem !important;
+        width: 22.3vw !important
+       
+      }
+
+    } */
+    /* @media all and (max-width: 1080px) and (min-width: 1030px) {
+      .slidesimages{
+        height:430px !important;
+        width: 340px !important;
+      }
+      .r1befor{
+        position: absolute;
+        margin-top: -27rem;
+        margin-left: 5rem;
+    }
+    } */
+    /* @media all and (max-width: 999px) and (min-width: 970px) {
+      .slidesimages{
+        height:410px !important;
+        width: 310px !important;
+      }
+      .r1befor{
+        position: absolute;
+        margin-top: -27rem;
+        margin-left: 5rem;
+    }
+ 
+    } */
+    /* @media all and (max-width: 899px) and (min-width: 800px) {
+      .slidesimages{
+        height:410px !important;
+        width: 280px !important;
+      }
+      .frndimg{
+        height: 720px !important;
+        width: 530px !important;
+   }
+   .slidesimages{
+    height:440px !important;
+    width: 360px !important;
+  }
+  .header_image{
+    background-image: url("https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-right: -30px;
+    height: 140vh;
+  
+    margin-top: -14rem;
+   
+  }
+  .btn_nav{
+  
+    margin-right: 3rem !important;
+    height: 3rem;
+    width: 11rem;
+    font-size: 0.81rem;
+  }
+  .home{
+   margin-left: -1rem;
+  }
+  .r1befor{
+   margin-top: -13rem;
+  }
+  .story{
+        
+    margin-left: 2rem;
+    margin-top:11.4rem;
+  
+      
+    } */
+      /* .r1befor{
+        position: absolute !important;
+        margin-top: -35rem !important;
+        margin-left: 5rem !important;
+    } */
+    
+    /* @media all and (max-width: 799px) and (min-width: 700px) {
+      .slidesimages{
+        height:400px !important;
+        width: 260px !important;
+      }
+      .frndimg{
+        height: 720px !important;
+        width: 530px !important;
+   }
+   .slidesimages{
+    height:440px !important;
+    width: 360px !important;
+  }
+  .header_image{
+    background-image: url("https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-right: -30px;
+    height: 140vh;
+  
+    margin-top: -14rem;
+   
+  }
+  .btn_nav{
+  
+    margin-right: 3rem !important;
+    height: 3rem;
+    width: 11rem;
+    font-size: 0.81rem;
+  }
+  .home{
+   margin-left: -1rem;
+  }
+  .r1befor{
+   margin-top: -13rem;
+  }
+  .story{
+        
+    margin-left: 2rem;
+    margin-top:11.4rem;
+  
+      
+    }
+    .btns{
+      margin-top: -8rem !important;
+    }
+    }
+    @media all and (max-width: 699px) and (min-width: 600px) {
+      .slidesimages{
+        height:400px !important;
+        width: 260px !important;
+      }
+      .frndimg{
+        height: 720px !important;
+        width: 530px !important;
+   }
+   .slidesimages{
+    height:440px !important;
+    width: 360px !important;
+  }
+  .header_image{
+    background-image: url("https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-right: -30px;
+    height: 140vh;
+  
+    margin-top: -14rem;
+   
+  }
+  .btn_nav{
+  
+    margin-right: 3rem !important;
+    height: 3rem;
+    width: 11rem;
+    font-size: 0.81rem;
+  }
+  .home{
+   margin-left: -1rem;
+  }
+  .r1befor{
+   margin-top: -13rem;
+  }
+  .story{
+        
+    margin-left: 2rem;
+    margin-top:11.4rem;
+  
+      
+    }
+    .btns{
+      margin-top: -8rem !important;
+    }
+      .slidesimages{
+        height:380px !important;
+        width: 240px !important;
+      }
+     .xprt{
+       font-size: rem !important;
+     }
+    }
+        @media all and (max-width: 749px) and (min-width: 500px) {
+      
+     .xprt{
+       font-size: 1.2rem !important;
+     }
+     .crt{
+      font-size: 1.2rem !important;
+
+     }
+    }
+    @media all and (max-width: 749px) and (min-width: 500px) {
+      
+      .xprt{
+        font-size: 1.2rem !important;
+      }
+     } */
+/*      
+      @media all and (max-width: 1400px) and (min-width: 1301px) {
+
+      }
+      @media all and (max-width: 1300px) and (min-width: 1201px) {
+
+        
+      }
+      @media all and (max-width: 1200px) and (min-width: 1101px) {
+        
+      }
+      @media all and (max-width: 1100px) and (min-width: 1001px) {
+        
+      }
+      @media all and (max-width: 1000px) and (min-width: 901px) {
+        
+      }
+      @media all and (max-width: 900px) and (min-width: 801px) {
+        
+      }
+      @media all and (max-width: 800px) and (min-width: 701px) {
+        
+      }
+      @media all and (max-width: 700px) and (min-width: 601px) {
+        
+      }
+      @media all and (max-width: 600px) and (min-width: 551px) {
+        
+      }
+      @media all and (max-width: 550px) and (min-width: 501px) {
+        
+      }
+      @media all and (max-width: 500px) and (min-width: 451px) {
+        
+      } */
+    
+      /* @media all and (max-width: 420px) and (min-width: 401px) {
+        
+          .firstimg
+          {
+            height: 60px;
+            width: 80px !important;
+          }
+          .navbar-expand-lg
+          {
+            border-radius: 0rem;
+            background-color: rgb(255, 255, 255);
+          }
+        .navr
+        {
+          width: 100% !important;
+          margin-top: -8px !important;
+        }
+  
+        .content{margin-top: 0vw;}
+        
+        .header_image
+        {
+          background-image: url("https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png");
+           background-position: center;
+           background-repeat: no-repeat;
+           background-size: 70%;
+           height: 100vh;
+           width: 100%;
+           margin-top: -17.5rem;     }
+       .r1
+         {
+         margin-top: 12rem;
+         margin-left: -30px;
+         }
+       .xprt{
+         font-weight: bold !important;
+         font-size: 0.7rem !important;
+         
+       }
+       .crt{
+         font-size: 1rem !important;
+       }
+       .btn_how_work{
+        height: 7vw;
+        margin-top: 3rem;
+        display: inline-block;
+        width: 150% !important;
+        background-color:#ffff !important;
+  
+        text-align: center;
+        display: flex;
+        align-items: center;
+        color: rgb(128, 148, 202);
+        justify-content: center;
+        font-size: 2vw;
+        box-shadow: 4px 2px 1px  rgba(204, 198, 198, 0.836);
+        border-radius: 2rem;
+    }
+    .story{
+        
+      margin-left: 2rem;
+      margin-top:3rem;
+      height: 100vh;
+      width: 100% !important;
+      color: red !important;
+  
+        
+      }
+      .read{
+        display: none;
+     font-size: 1.5vw !important;
+      }
+ 
+      .girl_pc{
+        height: 800px !important;
+        width: 370px !important;
+      }
+      .girltextcntr{
+        margin-left:3rem !important;
+      }
+      .des{
+        margin-left: -1.3rem !important;
+      }
+      .comp{
+        font-size: 1em !important;
+      }
+      .example{
+        font-size: 1.2rem !important;
+      }
+      .team{
+        font-size: 1.4rem;
+        line-height: 1.7rem;
+      }
+      .icon_con{
+        margin-left: 3.9rem !important;
+        margin-top: -1rem !important;
+      }
+      ._01{
+        font-size: 4rem !important;
+        margin-left: 5rem;
+      }
+      .idea_main{
+        margin-top: -3.3rem !important;
+        margin-left: -1rem;
+      }
+      .frndimg{
+        height: 350px;
+        width: 340px;
+      }
+      .slidesimages{
+        height: 188px !important;
+        width: 134px !important;
+        margin-right: 0.1vw;
+        margin-left: 0.4vw;
+      }
+      .btn_nav{
+       display: none;
+    }
+      .btn_nav_of_slides{
+        height: 3.4rem;
+        width: 13rem;
+        background-image: linear-gradient(to right,#4dbe8d,#0b8c9d);
+    margin-top: 1.3rem !important;
+            font-size: 4vw;
+    }
+    .thmb{
+      margin-left: 5rem !important;
+      margin-top:-2rem !important
+    }
+    .testimonials{
+  
+      width: 100% !important;
+      height: 90vh !important;
+    }
+    .testimonials li .singh{
+      margin-top: -4rem;
+      margin-left: 3.5rem;
+    }
+        
+        .testimonials li p {
+       
+          font-size: 1rem !important;
+          margin-top: 1rem !important;
+          line-height: 1.4rem;
+        }
+        .cz_testimonials_name_subname{
+          margin-top: -2rem !important;
+        }
+         .hr2{
+           margin-top: 37rem !important;
+         }
+         .solutions{
+          display: flex;
+      flex-direction: column;
+          color: silver;
+          justify-content: center;
+          align-items: center;
+      }
+      .solutions .sol1 {
+        margin-top: 1.6rem !important;
+        margin-bottom: 1.6rem !important;
+    }
+  
+  
+  
+  
+    .btn_nav_golcard{
+      height: 3.2rem;
+      width: 17rem;
+    
+      font-size: 0.6rem;
+      border-radius: 2rem;
+      margin-right:1.1rem;
+      margin-left: 1rem !important;
+    }
+    .golcard{
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+      padding-top: 2rem;
+    }
+    .txt{
+      font-size: 0rem !important;
+      width: 274%;
+    }
+    .rcorners4{
+      border-radius: 2rem !important;
+      padding: 20px; 
+      width: 100%;
+      height: 270px; 
+  
+    }
+    .rdy{
+      font-size: 1rem !important;
+    }
+    .zyada{
+      font-size: 0.8rem !important;
+      font-family: sans-serif !important;
+      
+    }
+    .crdbody{
+      margin-left: 13px !important;
+    }
+    .crdbody1{
+      margin-left: 13px !important;
+    }
+    .crdbod2{
+      margin-left: 13px !important;
+    }
+    .crdbod2{
+      margin-left: 13px !important;
+    }
+    .pr1{
+      margin-top: 0.3rem;
+      height: 3rem!important;
+      width: 3rem!important;
+      background-color:#35c46cb7 !important;
+      border-radius: 50% !important;
+      color: white;
+      outline-style: none !important;
+      border-style: none;
+  }
+
+  .footer{
+    margin-top: -6rem;
+    background-color: #e7f4f8 !important;
+    padding-top: 10rem;
+    height: auto;
+  
+  }
+  .fotleft{
+    margin-top: 4rem;
+    margin-right: 1rem;
+  }
+  #sos1{
+    font-weight: bold;
+    font-size: 3vw;
+  
+  }
+  #sos2{
+    font-weight: bold;
+    font-size: 3vw;
+  
+  }
+  #sos3{
+    font-weight: bold;
+    font-size: 3vw;
+  
+  }
+  #sos4{
+    font-weight: bold;
+    font-size: 5vw;
+  
+  }
+  .foter {
+    background-color: #0184a0;
+    height: 15vh !important;
+    padding-left: 1rem;
+    padding-top: 2.4rem;
+  }
+      } */
+
+
+
+
+/* 
+      @media all and (max-width: 400px) and (min-width: 250px) 
+      {
+        .firstimg
+        {
+          height: 60px;
+          width: 80px !important;
+        }
+        .navbar-expand-lg
+        {
+          border-radius: 0rem;
+          background-color: rgb(255, 255, 255);
+        }
+      .navr
+      {
+        width: 100% !important;
+        margin-top: -8px !important;
+      }
+
+
+      
+      .header_image
+      {
+        background-image: url("https://xtratheme.com/business-4/wp-content/uploads/sites/102/2019/10/slider-layer-1.png");
+         background-position: center;
+         background-repeat: no-repeat;
+         background-size: 70%;
+         height: 100vh;
+         width: 100%;
+         margin-top: -15.5rem;     }
+     .r1
+       {
+       margin-top: 12rem;
+       margin-left: -30px;
+       }
+     .xprt{
+       font-weight: bold !important;
+       font-size: 0.7rem !important;
+       
+     }
+     .crt{
+       font-size: 1rem !important;
+     }
+     .btn_how_work{
+      height: 7vw;
+      margin-top: 3rem;
+      display: inline-block;
+      width: 150% !important;
+      background-color:#ffff !important;
+
+      text-align: center;
+      display: flex;
+      align-items: center;
+      color: rgb(128, 148, 202);
+      justify-content: center;
+      font-size: 2vw;
+      box-shadow: 4px 2px 1px  rgba(204, 198, 198, 0.836);
+      border-radius: 2rem;
+  }
+  .story{
+      
+    margin-left: 2rem;
+    margin-top:3rem;
+    height: 100vh;
+    width: 100% !important;
+    color: red !important;
+
+      
+    }
+    .read{
+      display: none;
+   font-size: 1.5vw !important;
+    }
+   
+    .girl_pc{
+      height: 800px !important;
+      width: 370px !important;
+    }
+    .girltextcntr{
+      margin-left:3rem !important;
+    }
+    .des{
+      margin-left: -1.3rem !important;
+    }
+    .comp{
+      font-size: 1em !important;
+    }
+    .example{
+      font-size: 1.2rem !important;
+    }
+    .team{
+      font-size: 1.4rem;
+      line-height: 1.7rem;
+    }
+    .icon_con{
+      margin-left: 3.9rem !important;
+      margin-top: -1rem !important;
+    }
+    ._01{
+      font-size: 4rem !important;
+      margin-left: 5rem;
+    }
+    .idea_main{
+      margin-top: -3.3rem !important;
+      margin-left: -1rem;
+    }
+    .frndimg{
+      height: 350px;
+      width: 340px;
+    }
+    .slidesimages{
+      height: 188px !important;
+      width: 115px !important;
+      margin-left: 2px;
+      margin-right: 2px !important;
+    }
+    .btn_nav{
+     display: none;
+  }
+    .btn_nav_of_slides{
+      height: 3.4rem;
+      width: 13rem;
+      background-image: linear-gradient(to right,#4dbe8d,#0b8c9d);
+  margin-top: 1.3rem !important;
+          font-size: 4vw;
+  }
+  .thmb{
+    margin-left: 5rem !important;
+    margin-top:-2rem !important
+  }
+  .testimonials{
+
+    width: 100% !important;
+    height: 90vh !important;
+  }
+  .testimonials li .singh{
+    margin-top: -4rem;
+    margin-left: 3.5rem;
+  }
+      
+      .testimonials li p {
+     
+        font-size: 1rem !important;
+        margin-top: 1rem !important;
+        line-height: 1.4rem;
+      }
+      .cz_testimonials_name_subname{
+        margin-top: -2rem !important;
+      }
+       .hr2{
+         margin-top: 37rem !important;
+       }
+       .solutions{
+        display: flex;
+    flex-direction: column;
+        color: silver;
+        justify-content: center;
+        align-items: center;
+    }
+    .solutions .sol1 {
+      margin-top: 1.6rem !important;
+      margin-bottom: 1.6rem !important;
+  }
+
+.slidescard{
+  width: 50%;
+}
+
+
+  .btn_nav_golcard{
+    height: 3.2rem;
+    width: 17rem;
+  
+    font-size: 0.6rem;
+    border-radius: 2rem;
+    margin-right:1.1rem;
+    margin-left: 1rem !important;
+  }
+  .golcard{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 2rem;
+  }
+  .txt{
+    font-size: 0rem !important;
+    width: 274%;
+  }
+  .rcorners4{
+    border-radius: 2rem !important;
+    padding: 20px; 
+    width: 100%;
+    height: 270px; 
+
+  }
+  .rdy{
+    font-size: 1rem !important;
+  }
+  .zyada{
+    font-size: 0.8rem !important;
+    font-family: sans-serif !important;
+    
+  }
+  .crdbody{
+    margin-left: 13px !important;
+  }
+  .crdbody1{
+    margin-left: 13px !important;
+  }
+  .crdbod2{
+    margin-left: 13px !important;
+  }
+  .crdbod2{
+    margin-left: 13px !important;
+  }
+  .pr1{
+    margin-top: 0.3rem;
+    height: 3rem!important;
+    width: 3rem!important;
+    background-color:#35c46cb7 !important;
+    border-radius: 50% !important;
+    color: white;
+    outline-style: none !important;
+    border-style: none;
+}
+
+.footer{
+  margin-top: -6rem;
+  background-color: #e7f4f8 !important;
+  padding-top: 10rem;
+  height: auto;
+
+}
+.fotleft{
+  margin-top: 4rem;
+  margin-right: 1rem;
+}
+#sos1{
+  font-weight: bold;
+  font-size: 3vw;
+
+}
+#sos2{
+  font-weight: bold;
+  font-size: 3vw;
+
+}
+#sos3{
+  font-weight: bold;
+  font-size: 3vw;
+
+}
+#sos4{
+  font-weight: bold;
+  font-size: 5vw;
+
+}
+.foter {
+  background-color: #0184a0;
+  height: 15vh !important;
+  padding-left: 1rem;
+  padding-top: 2.4rem;
+}
+      } */
